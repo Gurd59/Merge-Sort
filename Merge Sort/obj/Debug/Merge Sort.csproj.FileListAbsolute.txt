@@ -1,0 +1,9 @@
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\obj\Debug\Merge Sort.csprojAssemblyReference.cache
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\obj\Debug\Merge_Sort.Form1.resources
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\obj\Debug\Merge_Sort.Properties.Resources.resources
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\obj\Debug\Merge Sort.csproj.GenerateResource.cache
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\bin\Debug\Merge Sort.exe.config
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\bin\Debug\Merge Sort.exe
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\bin\Debug\Merge Sort.pdb
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\obj\Debug\Merge Sort.exe
+D:\Users\ditmara.ita19\source\repos\Merge Sort\Merge Sort\obj\Debug\Merge Sort.pdb
